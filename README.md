@@ -129,7 +129,7 @@ Detalhamento do Trabalho executado com a Machine Learning na Prática no Azure M
 
  6º Após a implementação chegou a hora de testar os trabalho realizado, para isso temos que ir no canto esquerdo da tela na opção "Pontos de extremidades", clicar no nome que n´s criamos para esse ponto de extremidade. clicar na aba "Testar", copiar o código JSON, do modelo descrito no site "https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html", da mesma forma que a baixo:
 
-        {
+ {
    "Inputs": { 
      "data": [
        {
@@ -147,7 +147,7 @@ Detalhamento do Trabalho executado com a Machine Learning na Prática no Azure M
          "windspeed": 0.3 
        }
      ]    
-   },   
+  },   
    "GlobalParameters": 1.0
  }
  
@@ -155,7 +155,7 @@ Detalhamento do Trabalho executado com a Machine Learning na Prática no Azure M
 
  8º Se aparecer o resultado ao lado do campo de código do teste semelhante a este:
 
-           {
+{
    "Results": [
      444.27799000000000
    ]
